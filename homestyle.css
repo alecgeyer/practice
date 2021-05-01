@@ -88,3 +88,9 @@ nav ul li:hover ul {
     max-height: 10%;
     
 }
+div p{
+    position: absolute;
+    bottom: 10%;
+    left:15%;
+    color: white;
+}
