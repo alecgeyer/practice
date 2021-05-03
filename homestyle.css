@@ -101,3 +101,37 @@ p{
     color: white;
 
 }
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* instagram */
+  .fa-instagram {
+    background: #be54c2;
+    color: white;
+    position: absolute;
+    bottom: 7%;
+    left:7%;
+
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    position: absolute;
+    bottom: 7%;
+  }
