@@ -1,0 +1,109 @@
+*{
+
+    margin: 0;
+    padding:0;
+}
+
+body {
+    background-image: url(https://niu-img.oss-cn-beijing.aliyuncs.com/service/media/article/headerImage/bd0f9992655f6917628ccbc500872222.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav {
+    width:100%;
+    height:10%;
+    background-color: white;
+    padding:0px 20px;
+
+}
+
+nav p {
+    font-family: ariel;
+    color:black;
+    font-size: 24px;
+    line-height: 55px;
+    float: left;
+    padding: 0px 25px;
+
+}
+
+nav ul{
+    float: left;
+    
+
+}
+
+nav ul li{
+    float:left;
+    list-style: none;
+    position: relative;
+    
+}
+
+nav ul li a {
+    font-family: ariel;
+    color:black;
+    font-size: 18px;
+    float: left;
+    padding:35px 80px;
+    text-decoration: none;
+
+    
+
+
+}
+nav ul li a:hover{
+    background: grey;
+}
+nav ul li ul {
+    display:none ;
+    position: absolute;
+    background-color: white;
+    padding: 10px;
+    border-radius: 0px 0px 4px 4px;
+
+
+}
+nav ul li ul li {
+    width: 1000%;
+    border-radius: 4px;
+
+
+}
+nav ul li ul li a:hover{
+    background-color:grey;
+    
+}
+nav ul li:hover ul {
+    display:block ;
+   
+
+
+}
+.logo img{
+    float: right;
+    position:absolute;
+    right: 0%;
+    max-width: 20%;
+    max-height: 10%;
+    
+}
+
+h1 {
+    width: 440px;
+    border: white;
+    background-image: url(http://1.bp.blogspot.com/-VbyrYg1kuMw/TunzciX37nI/AAAAAAAAGpE/hAbhmUCn1Mc/s1600/Plain%2Bdesktop%2Bbackground%2Bwallpaper%2BWide.jpg);
+    padding: 50px;
+    margin: 10px auto;
+    color: rgb(49, 49, 53);
+    text-align: center;
+   
+}
+p{
+    position: absolute;
+    bottom: 1%;
+    left:15%;
+    color: white;
+
+}
