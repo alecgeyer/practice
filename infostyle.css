@@ -130,3 +130,11 @@ line-height: 2;
     position: absolute;
     bottom: 10%;
   }
+
+  h2 p{
+    position: relative;
+    bottom: 0%;
+    color: black;
+    font-size: 12px;
+    left: 10%;
+}
