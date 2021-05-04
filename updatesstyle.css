@@ -5,9 +5,8 @@
 }
 
 body {
-    background-image: url(https://niu-img.oss-cn-beijing.aliyuncs.com/service/media/article/headerImage/bd0f9992655f6917628ccbc500872222.jpg);
+    background-image: url(https://i.redd.it/u1n2llbgbcb41.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
 }
 
 nav {
@@ -49,9 +48,6 @@ nav ul li a {
     padding:35px 70px;
     text-decoration: none;
 
-    
-
-
 }
 nav ul li a:hover{
     background: grey;
@@ -63,6 +59,7 @@ nav ul li ul {
     padding: 10px;
     border-radius: 0px 0px 4px 4px;
     top: 100%;
+
 
 }
 nav ul li ul li {
@@ -77,38 +74,14 @@ nav ul li ul li a:hover{
 }
 nav ul li:hover ul {
     display:block ;
-   
+    
+   }
 
 
-}
 .logo img{
     float: right;
     position:absolute;
     right: 0%;
     max-width: 20%;
     max-height: 10%;
-    
-}
-
-h1 {
-    width: 440px;
-    border: white;
-    background-image: url(http://1.bp.blogspot.com/-VbyrYg1kuMw/TunzciX37nI/AAAAAAAAGpE/hAbhmUCn1Mc/s1600/Plain%2Bdesktop%2Bbackground%2Bwallpaper%2BWide.jpg);
-    padding: 50px;
-    margin: 10px auto;
-    color: rgb(49, 49, 53);
-    text-align: center;
-    font-family: arial;
-   
-}
-h1 p{
-    font-size: 14px;
-    
-
-}
-h2 p{
-    position: relative;
-    bottom: 0%;
-    color: black;
-    font-size: 12px;
 }
