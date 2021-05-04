@@ -134,7 +134,7 @@ p {
 }
 
 h2 p{
-    position: relative;
+    position: fixed;
     bottom: 0%;
     color:white;
     font-size: 12px;

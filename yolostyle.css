@@ -90,7 +90,7 @@ nav ul li:hover ul {
 }
 
 h2 p{
-    position: relative;
+    position: fixed;
     bottom: 0%;
     color: black;
     font-size: 12px;
