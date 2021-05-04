@@ -132,7 +132,7 @@ line-height: 2;
   }
 
   h2 p{
-    position: relative;
+    position: fixed;
     bottom: 0%;
     color: black;
     font-size: 12px;
