@@ -5,8 +5,9 @@
 }
 
 body {
-    background-image: url(http://1.bp.blogspot.com/-VbyrYg1kuMw/TunzciX37nI/AAAAAAAAGpE/hAbhmUCn1Mc/s1600/Plain%2Bdesktop%2Bbackground%2Bwallpaper%2BWide.jpg);
+    background-image: url(https://specials-images.forbesimg.com/imageserve/607f27b6fce43e149eb6b57d/0x0.jpg?fit=scale);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 nav {
@@ -62,8 +63,6 @@ nav ul li ul {
     padding: 10px;
     border-radius: 0px 0px 4px 4px;
     top: 100%;
-    
-
 
 }
 nav ul li ul li {
@@ -91,44 +90,30 @@ nav ul li:hover ul {
     
 }
 
-p{
-  font-size: 24px;
-  text-align: center; 
-  margin: 2%;
+h1 {
+    width: 440px;
+    border: white;
+    background-image: url(http://1.bp.blogspot.com/-VbyrYg1kuMw/TunzciX37nI/AAAAAAAAGpE/hAbhmUCn1Mc/s1600/Plain%2Bdesktop%2Bbackground%2Bwallpaper%2BWide.jpg);
+    padding: 50px;
+    margin: 10px auto;
+    color: rgb(49, 49, 53);
+    text-align: center;
+    font-family: arial;
+   
+}
+h1 p{
+    font-family: arial;
+    font-size: 24px;
+    margin: 15px;
+    
 }
 
-h1 a img {
-    height: 100px;
-    width: 200px;
-    position: absolute;
-    top: 35%;
-    left: 3%;
-    border-radius: 5%;
-    padding: 20px 10px;
+h1 a p{
+    font-size: 14px;
 }
-
-h1 a img:hover{
-    background-color: rgb(11, 192, 11);
-}
-
 h2 p{
-    position: fixed;
+    position: relative;
     bottom: 0%;
-    left:15%;
-    color: black;
+    color:white;
     font-size: 12px;
-}
-
-h3 a img {
-    height: 100px;
-    width: 200px;
-    position: absolute;
-    top: 35%;
-    left: 30%;
-    border-radius: 5%;
-    padding: 20px 10px;
-}
-
-h3 a img:hover{
-    background-color: rgb(11, 192, 11);
 }
