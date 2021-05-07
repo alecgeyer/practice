@@ -97,7 +97,7 @@ p{
 h1 a img {
     height: 100px;
     width: 200px;
-    position: absolute;
+    position: unset;
     top: 35%;
     left: 3%;
     border-radius: 5%;

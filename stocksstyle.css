@@ -100,7 +100,8 @@ p{
 h1 a img {
     height: 100px;
     width: 200px;
-    position: absolute;
+    position: unset;
+    float: left;
     top: 35%;
     left: 3%;
     border-radius: 5%;
@@ -122,7 +123,7 @@ h2 p{
 h3 a img {
     height: 100px;
     width: 200px;
-    position: absolute;
+    position: unset;
     top: 35%;
     left: 30%;
     border-radius: 5%;
